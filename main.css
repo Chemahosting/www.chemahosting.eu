@@ -15,7 +15,8 @@ header a:hover{border-bottom: 3px solid white;}
 .central .contenido img{width: 200px; user-select: none;}
 .central .contenido img.logo2{width: 100px;}
 .central .contenido .botones{display: flex; flex-wrap: nowrap; gap: 20px;}
-.central .contenido .botones a{text-decoration: none; color: white; padding: 10px 20px; border: 2px solid;}
+.central .contenido .botones a{text-decoration: none; color: lightblue; padding: 10px 20px; border: 2px solid lightblue;}
+.central .contenido .botones a:hover{color: white;}
 
 .central2 ul{display: flex; flex-direction: column; justify-content: left; text-align: left; width: 100%;}
 .central2 a{text-decoration: none; color: lightblue; font-family: "FiraCode";}
@@ -31,7 +32,7 @@ header a:hover{border-bottom: 3px solid white;}
 
 .central .contenido .botones a{display: inline-block; vertical-align: middle; -webkit-transform: perspective(1px) translateZ(0); transform: perspective(1px) translateZ(0); box-shadow: 0 0 1px rgba(0, 0, 0, 0); position: relative; -webkit-transition-property: color; transition-property: color; -webkit-transition-duration: 0.3s; transition-duration: 0.3s;}
 .central .contenido .botones a:before{content: ""; position: absolute; z-index: -1; top: 0; left: 0; right: 0; bottom: 0; background: rgb(255, 0, 0); -webkit-transform: scaleX(0); transform: scaleX(0); -webkit-transform-origin: 0 50%; transform-origin: 0 50%; -webkit-transition-property: transform; transition-property: transform; -webkit-transition-duration: 0.3s; transition-duration: 0.3s; -webkit-transition-timing-function: ease-out; transition-timing-function: ease-out;}
-.central .contenido .botones a:hover, .central .contenido .botones a:focus, .central .contenido .botones a:active{color: white;}
+.central .contenido .botones a:focus, .central .contenido .botones a:active{color: white;}
 .central .contenido .botones a:hover:before, .central .contenido .botones a:focus:before, .central .contenido .botones a:active:before{-webkit-transform: scaleX(1); transform: scaleX(1);}
 
 .imgChrome{border-radius: 20px; transition: all .3s; border: 1px solid transparent; width: min-content;}
@@ -87,7 +88,7 @@ header a:hover{border-bottom: 3px solid white;}
 
 .bloque_topologia_red .nodos_red{display: flex; flex-direction: row; flex-wrap: nowrap; gap: 40px;}
 
-.bloque_topologia_red .internet{background-image: url("img/Nube.png"); background-size: contain; background-repeat: no-repeat; background-position: center; width: 80px; height: 60px; display: flex; justify-content: center; align-items: center;}
+.bloque_topologia_red .internet{background-image: url("img/cloud.png"); background-size: contain; background-repeat: no-repeat; background-position: center; width: 80px; height: 60px; display: flex; justify-content: center; align-items: center;}
 .bloque_topologia_red .internet p{color: black; transform: translate(0, 9px);}
 
 .bloque_topologia_red .nota-doble{display: flex; justify-content: space-between; width: 48.5%; height: 0; margin-bottom: 35px;}
