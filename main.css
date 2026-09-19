@@ -52,39 +52,47 @@ header a:hover{border-bottom: 3px solid white;}
 .bloque_topologia_red .linea-separadora-vertical{width: 0.1px; background-color: gray;}
 .bloque_topologia_red .linea-separadora-vertical-dashed{width: 0.1px; border-left: 0.1px dashed gray;}
 
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-arriba-dashed{width: 237.5px; border-left: 1px dashed gray; border-bottom: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-arriba-dashed{width: 237.5px; border-right: 1px dashed gray; border-bottom: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-dashed{width: 237.5px; border-left: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-dashed{width: 237.5px; border-right: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-abajo-dashed{width: 237.5px; border-left: 1px dashed gray; border-top: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-abajo-dashed{width: 237.5px; border-right: 1px dashed gray; border-top: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-arriba-dashed{width: 210px; border-left: 1px dashed gray; border-bottom: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-arriba-dashed{width: 210px; border-right: 1px dashed gray; border-bottom: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-dashed{width: 210px; border-left: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-dashed{width: 210px; border-right: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-abajo-dashed{width: 210px; border-left: 1px dashed gray; border-top: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-abajo-dashed{width: 210px; border-right: 1px dashed gray; border-top: 1px dashed gray;}
 
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-arriba{width: 237.5px; border-left: 1px solid gray; border-bottom: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-arriba{width: 237.5px; border-right: 1px solid gray; border-bottom: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro{width: 237.5px; border-left: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-centro{width: 237.5px; border-right: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-abajo{width: 237.5px; border-left: 1px solid gray; border-top: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-abajo{width: 237.5px; border-right: 1px solid gray; border-top: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-arriba{width: 210px; border-left: 1px solid gray; border-bottom: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-arriba{width: 210px; border-right: 1px solid gray; border-bottom: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro{width: 210px; border-left: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-centro{width: 210px; border-right: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-abajo{width: 210px; border-left: 1px solid gray; border-top: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-abajo{width: 210px; border-right: 1px solid gray; border-top: 1px solid gray;}
 
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-vacio{width: 237.5px;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-vacio{width: 237.5px; border-right: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-vacio{width: 210px; border-right: 1px solid transparent;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-vacio{width: 210px; border-right: 1px solid gray;}
 
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-vacio-triple{width: 475px; border-right: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-vacio-triple{width: 475px;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-vacio-triple{width: 420px; border-right: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-vacio-2-triple{width: 420px; border-left: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-vacio-triple{width: 420px; border-right: 1px solid transparent;}
 
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-arriba-triple{width: 475px; border-left: 1px solid gray; border-bottom: 1px solid gray; border-right: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-arriba-triple{width: 475px; border-right: 1px solid gray; border-bottom: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-triple{width: 475px; border-left: 1px solid gray; border-right: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-triple{width: 475px; border-right: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-abajo-triple{width: 475px; border-left: 1px solid gray; border-top: 1px solid gray; border-right: 1px solid gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-abajo-triple{width: 475px; border-right: 1px solid gray; border-top: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-arriba-triple{width: 420px; border-left: 1px solid gray; border-bottom: 1px solid gray; border-right: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-arriba-triple{width: 420px; border-right: 1px solid gray; border-bottom: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-triple{width: 420px; border-left: 1px solid gray; border-right: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-triple{width: 420px; border-right: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-abajo-triple{width: 420px; border-left: 1px solid gray; border-top: 1px solid gray; border-right: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-abajo-triple{width: 420px; border-right: 1px solid gray; border-top: 1px solid gray;}
 
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-arriba-dashed-triple{width: 475px; border-left: 1px dashed gray; border-bottom: 1px dashed gray; border-right: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-arriba-dashed-triple{width: 475px; border-right: 1px dashed gray; border-bottom: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-dashed-triple{width: 475px; border-left: 1px dashed gray; border-right: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-dashed-triple{width: 475px; border-right: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-izquierda-abajo-dashed-triple{width: 475px; border-left: 1px dashed gray; border-top: 1px dashed gray; border-right: 1px dashed gray;}
-.bloque_topologia_red .linea-separadora-horizontal-derecha-abajo-dashed-triple{width: 475px; border-right: 1px dashed gray; border-top: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-arriba-dashed-triple{width: 420px; border-left: 1px dashed gray; border-bottom: 1px dashed gray; border-right: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-arriba-dashed-triple{width: 420px; border-right: 1px dashed gray; border-bottom: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-dashed-triple{width: 420px; border-left: 1px dashed gray; border-right: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-dashed-triple{width: 420px; border-right: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-abajo-dashed-triple{width: 420px; border-left: 1px dashed gray; border-top: 1px dashed gray; border-right: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-abajo-dashed-triple{width: 420px; border-right: 1px dashed gray; border-top: 1px dashed gray;}
+
+.bloque_topologia_red .linea-separadora-horizontal-izquierda-centro-abajo-triple{width: 210px; border-left: 1px solid gray; border-bottom: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-abajo-centro-abajo-triple{width: 210px; border-bottom: 1px solid gray;}
+.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-abajo-triple{width: 210px; border-right: 1px solid gray; border-bottom: 1px solid gray;}
+
+.bloque_topologia_red .linea-separadora-horizontal-derecha-centro-arriba-vacio-triple{width: 210px; border-right: 1px dashed gray;}
+.bloque_topologia_red .linea-separadora-horizontal-centro-centro-arriba-vacio-triple{width: 210px; border-top: 1px dashed gray;}
 
 .bloque_topologia_red .nodos_red{display: flex; flex-direction: row; flex-wrap: nowrap; gap: 40px;}
 
@@ -93,14 +101,14 @@ header a:hover{border-bottom: 3px solid white;}
 
 .bloque_topologia_red .nota-doble{display: flex; justify-content: space-between; width: 48.5%; height: 0; margin-bottom: 35px;}
 .bloque_topologia_red .nota-doble p{margin: 0; padding: 0 10px; background-color: #191919; line-height: 1;}
-.bloque_topologia_red .nota-doble p:first-child{transform: translate(-50%, -50%);}
-.bloque_topologia_red .nota-doble p:last-child{transform: translate(50%, -50%);}
+.bloque_topologia_red .nota-doble p:first-child{transform: translate(53%, -50%);}
+.bloque_topologia_red .nota-doble p:last-child{transform: translate(124%, -50%);}
 
 .bloque_topologia_red .nota-triple{display: flex; justify-content: space-between; width: 71.45%; height: 0; margin-bottom: 35px;}
 .bloque_topologia_red .nota-triple p{margin: 0; padding: 0 10px; background-color: #191919; line-height: 1;}
 .bloque_topologia_red .nota-triple p.middle-child{transform: translate(5%);}
 
-.bloque_topologia_red .nodo_red{padding: 15px; border: 1px solid gray; width: 435px; text-align: left;}
+.bloque_topologia_red .nodo_red{padding: 15px; border: 1px solid gray; width: 380px; text-align: left;}
 .bloque_topologia_red .nodo_red .nombre-nodo{font-weight: bold; font-family: "FiraCode"; font-size: 16px;}
 .bloque_topologia_red .nodo_red.vacio{background: transparent; border: none;}
 .bloque_topologia_red .nodo_red.proxmox{background-color: #191919; border: 2px solid lightblue;}
