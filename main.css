@@ -124,9 +124,9 @@ header a:hover{border-bottom: 3px solid white;}
 .bloque_topologia_red .nodo_red .detalles-nodo img{height: 15px; width: min-content;}
 
 @media screen and (min-width: 1540px) {
-    .central .contenido {width: 100%; max-width: 100%; padding: 10px 0;}
-    .contenedor-scroll-red {width: 100%; max-width: 100vw; margin: 0 auto;}
-    .bloque_der p.volver_atras{text-align: center;}
+    .body-network-topology .central .contenido {width: 100%; max-width: 100%; padding: 10px 0;}
+    .body-network-topology .contenedor-scroll-red {width: 100%; max-width: 100vw; margin: 0 auto;}
+    .body-network-topology .bloque_der p.volver_atras{text-align: center;}
 }
 
 .contenido-privacidad{text-align: justify; width: 100%;}
