@@ -115,6 +115,7 @@ header a:hover{border-bottom: 3px solid white;}
 
 .bloque_topologia_red .nodo_red{padding: 15px; border: 1px solid gray; width: 380px; text-align: left;}
 .bloque_topologia_red .nodo_red .nombre-nodo{font-weight: bold; font-family: "FiraCode"; font-size: 16px;}
+.bloque_topologia_red .nodo_red .nombre-nodo span{color: gray !important; user-select: all; font-family: "FiraCode";}
 .bloque_topologia_red .nodo_red.vacio{background: transparent; border: none;}
 .bloque_topologia_red .nodo_red.proxmox{background-color: #191919; border: 2px solid lightblue;}
 .bloque_topologia_red .nodo_red.proxmox .nombre-nodo, .bloque_topologia_red .nodo_red.proxmox .nombre-nodo *{color: lightblue;}
